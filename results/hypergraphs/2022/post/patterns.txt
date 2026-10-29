@@ -1,0 +1,21 @@
+Climate Smart Agriculture Environment and Natural Resources #WEIGHT: 10706 #GROUP 2022
+Health Emergency Preparedness and Disaster Response Energy and Extractives #WEIGHT: 26843 #GROUP 2022
+Health Emergency Preparedness and Disaster Response Environment and Natural Resources #WEIGHT: 15263 #GROUP 2022
+Health Emergency Preparedness and Disaster Response Investment Climate #WEIGHT: 16440 #GROUP 2022
+Health Emergency Preparedness and Disaster Response Climate Change #WEIGHT: 17681 #GROUP 2022
+Sanitation and Wastewater #WEIGHT: 21396 #GROUP 2022
+Agricultural Water Management #WEIGHT: 13838 #GROUP 2022
+Water Resources Management #WEIGHT: 25425 #GROUP 2022
+Oil and Gas Policy, Strategy and Institutions Energy and Extractives #WEIGHT: 61061 #GROUP 2022
+Energy and Extractives Renewable Energy Climate Change #WEIGHT: 16157 #GROUP 2022
+Energy and Extractives Energy Efficiency #WEIGHT: 10969 #GROUP 2022
+Energy and Extractives Environment and Natural Resources #WEIGHT: 29494 #GROUP 2022
+Energy and Extractives Natural Resource Management #WEIGHT: 16483 #GROUP 2022
+Energy and Extractives Investment Climate #WEIGHT: 23185 #GROUP 2022
+Evidence-Based Policy #WEIGHT: 27308 #GROUP 2022
+Environment and Natural Resources Natural Resource Management Forests #WEIGHT: 13082 #GROUP 2022
+Environment and Natural Resources Pollution Management #WEIGHT: 12400 #GROUP 2022
+Environment and Natural Resources Investment Climate #WEIGHT: 11447 #GROUP 2022
+Environment and Natural Resources Forests Climate Change #WEIGHT: 10542 #GROUP 2022
+Climate Change Mitigation Climate Change #WEIGHT: 10989 #GROUP 2022
+Climate Change Climate Science #WEIGHT: 10330 #GROUP 2022

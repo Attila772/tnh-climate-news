@@ -1,0 +1,26 @@
+Disaster Risk Management #WEIGHT: 11361 #GROUP 2023
+Climate Smart Agriculture Environment and Natural Resources #WEIGHT: 11051 #GROUP 2023
+Climate Smart Agriculture Climate Change #WEIGHT: 11395 #GROUP 2023
+Health Emergency Preparedness and Disaster Response Energy and Extractives #WEIGHT: 17191 #GROUP 2023
+Health Emergency Preparedness and Disaster Response Environment and Natural Resources #WEIGHT: 10353 #GROUP 2023
+Health Emergency Preparedness and Disaster Response Investment Climate #WEIGHT: 10290 #GROUP 2023
+Health Emergency Preparedness and Disaster Response Climate Change #WEIGHT: 13629 #GROUP 2023
+Sanitation and Wastewater #WEIGHT: 26528 #GROUP 2023
+Agricultural Water Management #WEIGHT: 17148 #GROUP 2023
+Water Resources Management #WEIGHT: 21900 #GROUP 2023
+Oil and Gas Policy, Strategy and Institutions Energy and Extractives Climate Change #WEIGHT: 15200 #GROUP 2023
+Energy and Extractives Renewable Energy Environment and Natural Resources Climate Change #WEIGHT: 10049 #GROUP 2023
+Energy and Extractives Energy Efficiency Climate Change #WEIGHT: 10670 #GROUP 2023
+Energy and Extractives Environment and Natural Resources Forests #WEIGHT: 10734 #GROUP 2023
+Energy and Extractives Natural Resource Management #WEIGHT: 13675 #GROUP 2023
+Energy and Extractives Investment Climate #WEIGHT: 18926 #GROUP 2023
+Energy and Extractives Climate Change Mitigation Short-lived Climate Pollutants (SLCPs) Climate Change #WEIGHT: 10137 #GROUP 2023
+Climate Finance Climate Change #WEIGHT: 19541 #GROUP 2023
+Evidence-Based Policy #WEIGHT: 33258 #GROUP 2023
+Environment and Natural Resources Natural Resource Management Forests #WEIGHT: 12844 #GROUP 2023
+Environment and Natural Resources Pollution Management Air Pollution #WEIGHT: 10083 #GROUP 2023
+Environment and Natural Resources Investment Climate #WEIGHT: 12140 #GROUP 2023
+Environment and Natural Resources Forests Climate Change #WEIGHT: 15078 #GROUP 2023
+Natural Resource Management Climate Change #WEIGHT: 14238 #GROUP 2023
+Climate Change Mitigation Short-lived Climate Pollutants (SLCPs) Methane Climate Change #WEIGHT: 17812 #GROUP 2023
+Climate Change Impacts Climate Change Climate Science #WEIGHT: 14274 #GROUP 2023

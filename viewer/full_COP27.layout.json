@@ -1,0 +1,100 @@
+{
+  "camera": [
+    -45.3819274902344,
+    -334.482727050781
+  ],
+  "positions": {
+    "Agricultural Water Management": [
+      -203.381958007813,
+      77.7449951171875
+    ],
+    "Climate Change": [
+      -535.818725585938,
+      -411.381683349609
+    ],
+    "Climate Change Impacts": [
+      -578.039489746094,
+      -682.71044921875
+    ],
+    "Climate Change Mitigation": [
+      -873.919799804688,
+      -342.779541015625
+    ],
+    "Climate Finance": [
+      -739.423828125,
+      -196.196166992188
+    ],
+    "Climate Science": [
+      -371.549743652344,
+      -722.757568359375
+    ],
+    "Climate Smart Agriculture": [
+      -726.337158203125,
+      -559.523864746094
+    ],
+    "Energy Efficiency": [
+      461.063659667969,
+      -127.834106445313
+    ],
+    "Energy and Extractives": [
+      375.016479492188,
+      -333.732696533203
+    ],
+    "Environment and Natural Resources": [
+      178.567687988281,
+      -610.5703125
+    ],
+    "Evidence-Based Policy": [
+      -487.919799804688,
+      71.7449951171875
+    ],
+    "Forests": [
+      -92.4145202636719,
+      -578.347717285156
+    ],
+    "Health Emergency Preparedness and Disaster Response": [
+      -363.065673828125,
+      -78.93359375
+    ],
+    "Investment Climate": [
+      198.316162109375,
+      -103.610595703125
+    ],
+    "Methane": [
+      -798.055297851563,
+      -299.313873291016
+    ],
+    "Natural Resource Management": [
+      -276.717620849609,
+      -627.888427734375
+    ],
+    "Oil and Gas Policy, Strategy and Institutions": [
+      589.020874023438,
+      -253.255035400391
+    ],
+    "Pollution Management": [
+      398.155944824219,
+      -569.23583984375
+    ],
+    "Renewable Energy": [
+      -586.103759765625,
+      -169.097290039063
+    ],
+    "Sanitation and Wastewater": [
+      -694.919799804688,
+      -39.2550048828125
+    ],
+    "Short-lived Climate Pollutants (SLCPs)": [
+      -945.593017578125,
+      -425.637329101563
+    ],
+    "Water Resources Management": [
+      136.155944824219,
+      78.7449951171875
+    ]
+  },
+  "zoom": [
+    0.576369822025299,
+    0.576369822025299
+  ]
+}

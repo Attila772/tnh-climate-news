@@ -1,0 +1,140 @@
+{
+  "2021": {
+    "N": {
+      "full": 1864158,
+      "pre": 755991,
+      "conference": 374648,
+      "post": 733519
+    },
+    "days": 70,
+    "start": "20211004",
+    "end": "20211212",
+    "conference_start": "20211031",
+    "conference_end": "20211112",
+    "conference_start_index_zero": 27,
+    "conference_end_index_zero": 39,
+    "maximal_counts": {
+      "full": 20,
+      "pre": 17,
+      "conference": 27,
+      "post": 18
+    },
+    "eligible_hot_patterns": 25,
+    "selected": [
+      [
+        31,
+        33,
+        100
+      ],
+      [
+        47,
+        82,
+        100
+      ],
+      [
+        7,
+        57
+      ],
+      [
+        7,
+        47
+      ],
+      [
+        37,
+        100
+      ]
+    ]
+  },
+  "2022": {
+    "N": {
+      "full": 1265944,
+      "pre": 521574,
+      "conference": 238578,
+      "post": 505792
+    },
+    "days": 70,
+    "start": "20221010",
+    "end": "20221218",
+    "conference_start": "20221106",
+    "conference_end": "20221118",
+    "conference_start_index_zero": 27,
+    "conference_end_index_zero": 39,
+    "maximal_counts": {
+      "full": 21,
+      "pre": 21,
+      "conference": 24,
+      "post": 21
+    },
+    "eligible_hot_patterns": 14,
+    "selected": [
+      [
+        21
+      ],
+      [
+        7,
+        100
+      ],
+      [
+        31,
+        33,
+        100
+      ],
+      [
+        80,
+        100,
+        102
+      ],
+      [
+        37,
+        100
+      ]
+    ]
+  },
+  "2023": {
+    "N": {
+      "full": 1643311,
+      "pre": 722920,
+      "conference": 328488,
+      "post": 591903
+    },
+    "days": 77,
+    "start": "20231030",
+    "end": "20240114",
+    "conference_start": "20231130",
+    "conference_end": "20231213",
+    "conference_start_index_zero": 31,
+    "conference_end_index_zero": 44,
+    "maximal_counts": {
+      "full": 22,
+      "pre": 24,
+      "conference": 26,
+      "post": 19
+    },
+    "eligible_hot_patterns": 15,
+    "selected": [
+      [
+        41
+      ],
+      [
+        37,
+        100
+      ],
+      [
+        60,
+        62,
+        92,
+        100
+      ],
+      [
+        27,
+        31,
+        100
+      ],
+      [
+        47,
+        82,
+        100
+      ]
+    ]
+  }
+}

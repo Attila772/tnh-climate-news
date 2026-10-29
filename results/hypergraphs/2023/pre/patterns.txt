@@ -1,0 +1,24 @@
+Disaster Risk Management #WEIGHT: 11158 #GROUP 2023
+Climate Smart Agriculture Environment and Natural Resources #WEIGHT: 10690 #GROUP 2023
+Health Emergency Preparedness and Disaster Response Energy and Extractives #WEIGHT: 19998 #GROUP 2023
+Health Emergency Preparedness and Disaster Response Environment and Natural Resources #WEIGHT: 10253 #GROUP 2023
+Health Emergency Preparedness and Disaster Response Investment Climate #WEIGHT: 14919 #GROUP 2023
+Health Emergency Preparedness and Disaster Response Climate Change #WEIGHT: 13807 #GROUP 2023
+Sanitation and Wastewater #WEIGHT: 30346 #GROUP 2023
+Agricultural Water Management #WEIGHT: 17439 #GROUP 2023
+Water Resources Management #WEIGHT: 24174 #GROUP 2023
+Oil and Gas Policy, Strategy and Institutions Energy and Extractives #WEIGHT: 60077 #GROUP 2023
+Energy and Extractives Renewable Energy Environment and Natural Resources #WEIGHT: 10506 #GROUP 2023
+Energy and Extractives Renewable Energy Climate Change #WEIGHT: 18991 #GROUP 2023
+Energy and Extractives Energy Efficiency #WEIGHT: 11822 #GROUP 2023
+Energy and Extractives Environment and Natural Resources Climate Change #WEIGHT: 10037 #GROUP 2023
+Energy and Extractives Natural Resource Management #WEIGHT: 15823 #GROUP 2023
+Energy and Extractives Investment Climate #WEIGHT: 25559 #GROUP 2023
+Evidence-Based Policy #WEIGHT: 30136 #GROUP 2023
+Environment and Natural Resources Natural Resource Management Forests #WEIGHT: 13624 #GROUP 2023
+Environment and Natural Resources Pollution Management Air Pollution #WEIGHT: 14848 #GROUP 2023
+Environment and Natural Resources Investment Climate #WEIGHT: 14317 #GROUP 2023
+Environment and Natural Resources Forests Climate Change #WEIGHT: 11792 #GROUP 2023
+Natural Resource Management Climate Change #WEIGHT: 11502 #GROUP 2023
+Climate Change Mitigation Climate Change #WEIGHT: 17988 #GROUP 2023
+Climate Change Impacts Climate Change Climate Science #WEIGHT: 11218 #GROUP 2023

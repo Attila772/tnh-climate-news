@@ -1,0 +1,107 @@
+WB_NUM,SDG,WB_SHORT,WB_NAME,WB_LVL,item_id
+587,13,WB_587_,Poverty and Climate Change,2,0
+820,13,WB_820_,Disaster Risk Management,1,1
+821,13,WB_821_,Disaster Risk Reduction,2,2
+823,13,WB_823_,Post Disaster Recovery and Reconstruction,2,3
+3358,13,WB_3358_,Man-Made Disasters,2,4
+1770,13,WB_1770_,Climate Change and Vulnerable Groups,2,5
+1949,13,WB_1949_,Climate Smart Agriculture,1,6
+2166,13,WB_2166_,Health Emergency Preparedness and Disaster Response,3,7
+617,13,WB_617_,Gender and Climate Change,1,8
+142,13,WB_142_,Energy and Water,2,9
+156,13,WB_156_,Groundwater Management,2,10
+1798,13,WB_1798_,Water Pollution,2,11
+1998,13,WB_1998_,Water Economics,2,12
+139,13,WB_139_,Sanitation and Wastewater,3,13
+1995,13,WB_1995_,Energy for Water and Wastewater Treatment,3,14
+149,13,WB_149_,Wastewater Treatment and Disposal,5,15
+1831,13,WB_1831_,Environmental Crime and Law Enforcement,2,16
+849,13,WB_849_,Environmental Laws and Regulations,2,17
+526,13,WB_526_,Renewable Energy Policy and Regulation,3,18
+158,13,WB_158_,Water Resources and Climate Adaptation,2,19
+140,13,WB_140_,Agricultural Water Management,2,20
+141,13,WB_141_,Water Resources Management,1,21
+427,13,WB_427_,Water Allocation and Water Economics,1,22
+537,13,WB_537_,Urban Energy Efficiency,2,23
+538,13,WB_538_,Energy Efficiency in Industry,2,24
+1627,13,WB_1627_,Energy Subsidies,3,25
+2428,13,WB_2428_,ICT and Energy,3,26
+539,13,WB_539_,"Oil and Gas Policy, Strategy and Institutions",1,27
+542,13,WB_542_,Oil and Gas Laws and Regulations,3,28
+554,13,WB_554_,"Mining Policy, Laws, and Regulations",1,29
+1756,13,WB_1756_,Energy and Climate Change,2,30
+507,13,WB_507_,Energy and Extractives,0,31
+520,13,WB_520_,PPP in Energy and Power,2,32
+525,13,WB_525_,Renewable Energy,1,33
+533,13,WB_533_,Energy Efficiency,1,34
+1872,13,WB_1872_,Carbon Capture and Storage Law and Regulation,4,35
+515,13,WB_515_,Power Sector Policy and Institutions,1,36
+1847,13,WB_1847_,Climate Finance,1,37
+2673,13,WB_2673_,Jobs and Climate Change,2,38
+2853,13,WB_2853_,Jobs in Environment & Natural Resources,4,39
+1130,13,WB_1130_,Structural Policy and Reform,1,40
+706,13,WB_706_,Evidence-Based Policy,1,41
+1075,13,WB_1075_,Industry Policy,2,42
+1822,13,WB_1822_,Carbon Emissions and Transport,3,43
+1776,13,WB_1776_,Carbon Trading,3,44
+1845,13,WB_1845_,Carbon Tax,3,45
+1846,13,WB_1846_,Carbon Pricing,3,46
+566,13,WB_566_,Environment and Natural Resources,0,47
+600,13,WB_600_,Natural Resources Management,1,48
+1979,13,WB_1979_,Natural Resource Management ,2,49
+963,13,WB_963_,Natural Resources Law,2,50
+601,13,WB_601_,Pollution Management,1,51
+2639,13,WB_2639_,Climate Efficient Industries,2,52
+582,13,WB_582_,Greenhouse Gas Accounting,2,53
+803,13,WB_803_,Low Carbon City Development,3,54
+810,13,WB_810_,Climate Change Adaptation in Urban Areas,2,55
+572,13,WB_572_,Climate Resilient Development,1,56
+405,13,WB_405_,Investment Climate,1,57
+568,13,WB_568_,Climate Services,1,58
+574,13,WB_574_,Climate Change Adaptation,1,59
+579,13,WB_579_,Climate Change Mitigation,1,60
+747,13,WB_747_,Social Resilience and Climate Change,1,61
+1841,13,WB_1841_,Short-lived Climate Pollutants (SLCPs),2,62
+1844,13,WB_1844_,Market-Based Climate Change Mitigation,2,63
+3170,13,WB_3170_,General Climate Themes,4,64
+1787,13,WB_1787_,Natural Habitats,2,65
+3138,13,WB_3138_,Natural Disaster ,2,66
+1705,13,WB_1705_,Disaster Preparedness,2,67
+3228,13,WB_3228_,Biological Disaster ,3,68
+3371,13,WB_3371_,Environmental Disaster ,3,69
+1757,13,WB_1757_,Reduced Emissions from Deforestation and Degradation (REDD),4,70
+2208,13,WB_2208_,PPP Policy and Strategy,1,71
+580,13,WB_580_,Low Carbon Development,2,72
+705,13,WB_705_,Economic Shocks and Climate Change,2,73
+1838,13,WB_1838_,Climate Risk Screening,2,74
+1750,13,WB_1750_,Climate Change Adaptation Impacts,2,75
+1752,13,WB_1752_,Climate Change Adaptation in Coastal and Marine Areas,2,76
+1753,13,WB_1753_,Gas-to-Power,2,77
+1758,13,WB_1758_,Transport and Climate Change,2,78
+1772,13,WB_1772_,Private Sector and Climate Change,2,79
+1773,13,WB_1773_,Climate Change Impacts,2,80
+1774,13,WB_1774_,Climate Forecasting,2,81
+1777,13,WB_1777_,Forests,2,82
+1791,13,WB_1791_,Air Pollution,2,83
+1795,13,WB_1795_,Ozone Depleting Substances (ODS),2,84
+1837,13,WB_1837_,Climate Change and Disaster Risk,2,85
+1839,13,WB_1839_,Ozone Layer Depletion and Climate Change,2,86
+1849,13,WB_1849_,Public Climate Finance,2,87
+1850,13,WB_1850_,Private Climate Finance,2,88
+1851,13,WB_1851_,BioCarbon,5,89
+1852,13,WB_1852_,Black Carbon,3,90
+1853,13,WB_1853_,Hydrofluorocarbons,3,91
+1854,13,WB_1854_,Methane,3,92
+1878,13,WB_1878_,Carbon Capture and Storage,2,93
+3020,13,WB_3020_,Trade and Climate Change ,4,94
+3172,13,WB_3172_,Climate Related Disaster,5,95
+3173,13,WB_3173_,Climate Related Event,5,96
+3174,13,WB_3174_,Glacial Lake Outburst,4,97
+3196,13,WB_3196_,weather disaster,5,98
+447,13,WB_447_,Fiscal Aspects of Climate Change,3,99
+567,13,WB_567_,Climate Change,0,100
+570,13,WB_570_,Early Warning Systems,2,101
+571,13,WB_571_,Climate Science,1,102
+573,13,WB_573_,Climate Risk Management,2,103
+929,13,WB_929_,Community Driven Development and Resilience to Climate Change,4,104
+959,13,WB_959_,Climate Change Law,1,105

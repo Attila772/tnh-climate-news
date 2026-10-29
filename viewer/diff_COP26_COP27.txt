@@ -1,0 +1,15 @@
+Health Emergency Preparedness and Disaster Response Oil and Gas Policy, Strategy and Institutions Energy and Extractives #WEIGHT: 11953 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Energy and Extractives Climate Change #WEIGHT: 12003 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Natural Resource Management #WEIGHT: 13186 #GROUP 2021
+Oil and Gas Policy, Strategy and Institutions Energy and Extractives Climate Change #WEIGHT: 10634 #GROUP 2021
+Energy and Extractives Environment and Natural Resources Forests #WEIGHT: 12241 #GROUP 2021
+Energy and Extractives Climate Change Mitigation Short-lived Climate Pollutants (SLCPs) Methane Climate Change #WEIGHT: 10834 #GROUP 2021
+Evidence-Based Policy Climate Change #WEIGHT: 10770 #GROUP 2021
+Environment and Natural Resources Climate Change Mitigation Climate Change #WEIGHT: 10348 #GROUP 2021
+Investment Climate Climate Change #WEIGHT: 10968 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Energy and Extractives #WEIGHT: 32358 #GROUP 2022
+Health Emergency Preparedness and Disaster Response Climate Change #WEIGHT: 28213 #GROUP 2022
+Oil and Gas Policy, Strategy and Institutions Energy and Extractives #WEIGHT: 60781 #GROUP 2022
+Energy and Extractives Energy Efficiency #WEIGHT: 13258 #GROUP 2022
+Evidence-Based Policy #WEIGHT: 21955 #GROUP 2022
+Climate Change Mitigation Short-lived Climate Pollutants (SLCPs) Methane Climate Change #WEIGHT: 10944 #GROUP 2022

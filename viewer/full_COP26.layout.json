@@ -1,0 +1,96 @@
+{
+  "camera": [
+    -311.1875,
+    -161.784362792969
+  ],
+  "positions": {
+    "Agricultural Water Management": [
+      273.8125,
+      -10.3915405273438
+    ],
+    "Climate Change": [
+      -408.470458984375,
+      -85.5079956054688
+    ],
+    "Climate Change Impacts": [
+      -818.793212890625,
+      84.7882690429688
+    ],
+    "Climate Change Mitigation": [
+      -288.35107421875,
+      -460.991821289063
+    ],
+    "Climate Finance": [
+      -836.6708984375,
+      216.3056640625
+    ],
+    "Climate Science": [
+      -970.82666015625,
+      -40.0358276367188
+    ],
+    "Climate Smart Agriculture": [
+      -660.60205078125,
+      231.175048828125
+    ],
+    "Energy and Extractives": [
+      104.275512695313,
+      -232.588623046875
+    ],
+    "Environment and Natural Resources": [
+      -659.192138671875,
+      -327.973754882813
+    ],
+    "Evidence-Based Policy": [
+      -1025.64514160156,
+      135.608459472656
+    ],
+    "Forests": [
+      -543.597900390625,
+      -485.12158203125
+    ],
+    "Health Emergency Preparedness and Disaster Response": [
+      -485.421936035156,
+      178.062957763672
+    ],
+    "Investment Climate": [
+      97.898681640625,
+      -32.1083374023438
+    ],
+    "Methane": [
+      -19.9387817382813,
+      -386.569152832031
+    ],
+    "Natural Resource Management": [
+      -889.1650390625,
+      -293.565856933594
+    ],
+    "Oil and Gas Policy, Strategy and Institutions": [
+      -199.26220703125,
+      166.79801940918
+    ],
+    "Pollution Management": [
+      -837.888793945313,
+      -483.177185058594
+    ],
+    "Renewable Energy": [
+      -917.607421875,
+      -149.107788085938
+    ],
+    "Sanitation and Wastewater": [
+      307.17333984375,
+      -146.391540527344
+    ],
+    "Short-lived Climate Pollutants (SLCPs)": [
+      87.4517211914063,
+      -430.636779785156
+    ],
+    "Water Resources Management": [
+      173.451721191406,
+      98.6084594726563
+    ]
+  },
+  "zoom": [
+    0.663253545761108,
+    0.663253545761108
+  ]
+}

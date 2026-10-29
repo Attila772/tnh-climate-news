@@ -1,0 +1,3 @@
+scenario,N,maximal_count
+baseline,238578,24
+exclude_10_11,211816,24

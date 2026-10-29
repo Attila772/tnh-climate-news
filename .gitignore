@@ -1,0 +1,10 @@
+# downloaded and rebuilt data (step 1 and 2)
+data/raw/
+data/gdelt_zips/
+data/transactions_rebuilt/
+# viewer: saved screenshots, Godot import cache, a locally added font
+viewer/exports/
+viewer/source/.godot/
+Times New Roman.ttf
+# Python
+__pycache__/

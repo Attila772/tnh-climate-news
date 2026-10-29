@@ -1,0 +1,9 @@
+Climate Smart Agriculture Climate Change #WEIGHT: 10102 #GROUP 2022
+Health Emergency Preparedness and Disaster Response Environment and Natural Resources #WEIGHT: 15475 #GROUP 2022
+Energy and Extractives Environment and Natural Resources #WEIGHT: 27423 #GROUP 2022
+Environment and Natural Resources Pollution Management #WEIGHT: 12545 #GROUP 2022
+Disaster Risk Management #WEIGHT: 10731 #GROUP 2023
+Climate Smart Agriculture Environment and Natural Resources #WEIGHT: 10142 #GROUP 2023
+Energy and Extractives Renewable Energy Environment and Natural Resources #WEIGHT: 10657 #GROUP 2023
+Environment and Natural Resources Pollution Management Air Pollution #WEIGHT: 11176 #GROUP 2023
+Natural Resource Management Climate Change #WEIGHT: 11395 #GROUP 2023

@@ -1,0 +1,17 @@
+Climate Smart Agriculture #WEIGHT: 32289 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Oil and Gas Policy, Strategy and Institutions Energy and Extractives #WEIGHT: 11273 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Environment and Natural Resources #WEIGHT: 19939 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Investment Climate #WEIGHT: 22195 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Climate Change #WEIGHT: 33007 #GROUP 2021
+Sanitation and Wastewater #WEIGHT: 16896 #GROUP 2021
+Agricultural Water Management #WEIGHT: 11586 #GROUP 2021
+Water Resources Management #WEIGHT: 11421 #GROUP 2021
+Energy and Extractives Renewable Energy Climate Change #WEIGHT: 20277 #GROUP 2021
+Energy and Extractives Environment and Natural Resources #WEIGHT: 26777 #GROUP 2021
+Energy and Extractives Natural Resource Management #WEIGHT: 11582 #GROUP 2021
+Energy and Extractives Investment Climate #WEIGHT: 17265 #GROUP 2021
+Evidence-Based Policy #WEIGHT: 21528 #GROUP 2021
+Environment and Natural Resources Natural Resource Management Forests #WEIGHT: 10238 #GROUP 2021
+Environment and Natural Resources Forests Climate Change #WEIGHT: 11445 #GROUP 2021
+Climate Change Mitigation Climate Change #WEIGHT: 13693 #GROUP 2021
+Climate Change Climate Science #WEIGHT: 10918 #GROUP 2021

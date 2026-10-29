@@ -1,0 +1,6 @@
+{
+  "_comment": "Observation windows and conference (mining) periods, inclusive dates YYYYMMDD. COP26/COP27 conference periods end on the scheduled close, COP28 on the actual close (13 Dec 2023); actual_close is used in the boundary sensitivity analysis.",
+  "2021": {"cop": "COP26", "observation": ["20211004", "20211212"], "conference": ["20211031", "20211112"], "actual_close": "20211113"},
+  "2022": {"cop": "COP27", "observation": ["20221010", "20221218"], "conference": ["20221106", "20221118"], "actual_close": "20221120"},
+  "2023": {"cop": "COP28", "observation": ["20231030", "20240114"], "conference": ["20231130", "20231213"], "actual_close": "20231213"}
+}

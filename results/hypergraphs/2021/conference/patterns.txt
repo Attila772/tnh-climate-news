@@ -1,0 +1,27 @@
+Climate Smart Agriculture Climate Change #WEIGHT: 10250 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Oil and Gas Policy, Strategy and Institutions Energy and Extractives #WEIGHT: 11953 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Energy and Extractives Climate Change #WEIGHT: 12003 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Environment and Natural Resources #WEIGHT: 22880 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Natural Resource Management #WEIGHT: 13186 #GROUP 2021
+Health Emergency Preparedness and Disaster Response Investment Climate #WEIGHT: 23337 #GROUP 2021
+Sanitation and Wastewater #WEIGHT: 20032 #GROUP 2021
+Agricultural Water Management #WEIGHT: 10671 #GROUP 2021
+Water Resources Management #WEIGHT: 10591 #GROUP 2021
+Oil and Gas Policy, Strategy and Institutions Energy and Extractives Climate Change #WEIGHT: 10634 #GROUP 2021
+Energy and Extractives Renewable Energy Environment and Natural Resources #WEIGHT: 12871 #GROUP 2021
+Energy and Extractives Renewable Energy Climate Change #WEIGHT: 29177 #GROUP 2021
+Energy and Extractives Environment and Natural Resources Forests #WEIGHT: 12241 #GROUP 2021
+Energy and Extractives Environment and Natural Resources Climate Change #WEIGHT: 16031 #GROUP 2021
+Energy and Extractives Natural Resource Management #WEIGHT: 12009 #GROUP 2021
+Energy and Extractives Investment Climate #WEIGHT: 18185 #GROUP 2021
+Energy and Extractives Climate Change Mitigation Short-lived Climate Pollutants (SLCPs) Methane Climate Change #WEIGHT: 10834 #GROUP 2021
+Climate Finance Climate Change #WEIGHT: 21367 #GROUP 2021
+Evidence-Based Policy Climate Change #WEIGHT: 10770 #GROUP 2021
+Environment and Natural Resources Natural Resource Management Forests #WEIGHT: 11808 #GROUP 2021
+Environment and Natural Resources Pollution Management #WEIGHT: 12684 #GROUP 2021
+Environment and Natural Resources Investment Climate #WEIGHT: 10455 #GROUP 2021
+Environment and Natural Resources Climate Change Mitigation Climate Change #WEIGHT: 10348 #GROUP 2021
+Environment and Natural Resources Forests Climate Change #WEIGHT: 24925 #GROUP 2021
+Natural Resource Management Climate Change #WEIGHT: 14088 #GROUP 2021
+Investment Climate Climate Change #WEIGHT: 10968 #GROUP 2021
+Climate Change Impacts Climate Change Climate Science #WEIGHT: 16495 #GROUP 2021

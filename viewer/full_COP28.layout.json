@@ -1,0 +1,108 @@
+{
+  "camera": [
+    90.7210998535156,
+    130.131195068359
+  ],
+  "positions": {
+    "Agricultural Water Management": [
+      417.8798828125,
+      472.782104492188
+    ],
+    "Air Pollution": [
+      -549.859375,
+      37.0863647460938
+    ],
+    "Climate Change": [
+      229.735717773438,
+      141.960220336914
+    ],
+    "Climate Change Impacts": [
+      502.540161132813,
+      334.205932617188
+    ],
+    "Climate Change Mitigation": [
+      589.830688476563,
+      69.1001281738281
+    ],
+    "Climate Finance": [
+      243.370544433594,
+      380.562072753906
+    ],
+    "Climate Science": [
+      436.653503417969,
+      378.782104492188
+    ],
+    "Climate Smart Agriculture": [
+      117.221862792969,
+      -121.423461914063
+    ],
+    "Disaster Risk Management": [
+      -303.437744140625,
+      419.782104492188
+    ],
+    "Energy Efficiency": [
+      346.732971191406,
+      -102.873718261719
+    ],
+    "Energy and Extractives": [
+      -73.6097412109375,
+      55.55908203125
+    ],
+    "Environment and Natural Resources": [
+      -232.842651367188,
+      127.670440673828
+    ],
+    "Evidence-Based Policy": [
+      -87.2789306640625,
+      473.782104492188
+    ],
+    "Forests": [
+      -234.091247558594,
+      290.469390869141
+    ],
+    "Health Emergency Preparedness and Disaster Response": [
+      -158.878479003906,
+      -175.822082519531
+    ],
+    "Investment Climate": [
+      -483.697265625,
+      -132.155639648438
+    ],
+    "Methane": [
+      745.8798828125,
+      114.956695556641
+    ],
+    "Natural Resource Management": [
+      -28.8030395507813,
+      345.650421142578
+    ],
+    "Oil and Gas Policy, Strategy and Institutions": [
+      507.441345214844,
+      -51.5197143554688
+    ],
+    "Pollution Management": [
+      -592.437744140625,
+      131.965209960938
+    ],
+    "Renewable Energy": [
+      -433.064758300781,
+      289.362548828125
+    ],
+    "Sanitation and Wastewater": [
+      87.7210693359375,
+      428.782104492188
+    ],
+    "Short-lived Climate Pollutants (SLCPs)": [
+      536.782775878906,
+      217.576416015625
+    ],
+    "Water Resources Management": [
+      -523.437744140625,
+      362.782104492188
+    ]
+  },
+  "zoom": [
+    0.726727604866028,
+    0.726727604866028
+  ]
+}

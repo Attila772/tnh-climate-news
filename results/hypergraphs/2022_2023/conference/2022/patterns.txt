@@ -1,0 +1,6 @@
+Oil and Gas Policy, Strategy and Institutions Energy and Extractives #WEIGHT: 60781 #GROUP 2022
+Energy and Extractives Renewable Energy Environment and Natural Resources #WEIGHT: 10919 #GROUP 2022
+Energy and Extractives Renewable Energy Climate Change #WEIGHT: 27106 #GROUP 2022
+Energy and Extractives Energy Efficiency #WEIGHT: 13258 #GROUP 2022
+Energy and Extractives Environment and Natural Resources Climate Change #WEIGHT: 12378 #GROUP 2022
+Environment and Natural Resources Pollution Management #WEIGHT: 11158 #GROUP 2022
